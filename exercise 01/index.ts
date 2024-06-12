@@ -1,0 +1,1 @@
+//install typescript ,node js, visual studio
